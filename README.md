@@ -11,7 +11,7 @@
 Clonez le dépôt Git pour récupérer le projet :
 
 ```bash
-git clone https://github.com/julien-linard/recipe_docker_php_symfony
+git clone git@github.com:Lotfi-66/ERN24_Spotify_backend.git
 ```
 
 ## 🔩 Configuration de la base de données
